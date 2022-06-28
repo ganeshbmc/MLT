@@ -1,0 +1,4 @@
+Write a function named "hinge_loss" that computes the hinge loss value for corresponding elements of two vectors namely 
+y_test (5 x 1) and y_pred (5 x 1) and returns the mean of the loss values computed.
+
+Note: y_test is the true test label and y_pred is the the predicted label.
