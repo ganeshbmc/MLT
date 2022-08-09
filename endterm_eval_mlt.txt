@@ -1,0 +1,20 @@
+Qno.    marks lost
+279     2?
+280     2?
+281     2
+283     0.66?
+288     3
+291     3
+293     1
+294     3
+300     4
+301     4
+303     4
+306     4
+307     4
+310     4??
+311     4
+
+Loss (max, min): (45, 37)
+Score range: 55-63
+Expected course grade: A
